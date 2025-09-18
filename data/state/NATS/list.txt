@@ -9,7 +9,9 @@ gomphidae
 libellulidae
 lestidae
 coenagrionidae
-blattodea
+termitidae
+blattidae
+cryptocercidae
 mantodea
 notoptera
 dermaptera
@@ -17,10 +19,10 @@ plecoptera
 tetrigidae
 acrididae
 tettigoniidae
-gryllacrididae
+rhaphidophoridae
 gryllidae
 gryllotalpidae
-phasmida
+diapheromeridae
 psocodea
 corixidae
 notonectidae
@@ -31,7 +33,7 @@ gerridae
 cimicidae
 miridae
 reduviidae
-phymatinae
+scutelleridae
 tingidae
 lygaeidae
 coreidae
@@ -42,7 +44,8 @@ cercopidae
 cicadellidae
 fulgoridae
 aphididae
-dactylopiidae
+pseudococcidae
+coccidae
 thysanoptera
 megaloptera
 chrysopidae
@@ -52,6 +55,8 @@ carabidae
 dytiscidae
 gyrinidae
 hydrophilidae
+psephenidae
+elmidae
 histeridae
 staphylinidae
 silphidae
@@ -70,7 +75,8 @@ meloidae
 cerambycidae
 chrysomelidae
 curculionidae
-strepsiptera
+zopheridae
+cucujidae
 boreidae
 panorpidae
 raphidiidae
@@ -87,9 +93,9 @@ syrphidae
 tephritidae
 drosophilidae
 muscidae
-hippoboscidae
 calliphoridae
 tachinidae
+oestridae
 trichoptera
 sesiidae
 tortricidae
@@ -98,11 +104,13 @@ papilionidae
 pieridae
 lycaenidae
 nymphalidae
-danainae
+geometridae
+lasiocampidae
 pyralidae
 saturniidae
 sphingidae
 erebidae
+noctuidae
 tenthredinidae
 siricidae
 ichneumonidae
@@ -111,7 +119,7 @@ mutillidae
 formicidae
 vespidae
 sphecidae
-colletidae
+braconidae
 halictidae
 megachilidae
 apidae
